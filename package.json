@@ -1,0 +1,22 @@
+{
+    "name": "acadia",
+    "displayName": "Acadia",
+    "description": "A soft light theme for bright environments.",
+    "version": "0.0.1",
+    "publisher": "normandeau",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Acadia",
+                "uiTheme": "vs",
+                "path": "./themes/Acadia-color-theme.json"
+            }
+        ]
+    }
+}
